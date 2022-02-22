@@ -29,6 +29,11 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
+.btn {
+  color: white;
+  background-color: pink;
+  border: powderblue;
+}
 
 .weather-app-wrapper {
   max-width: 600px;
@@ -37,7 +42,7 @@ li:first-letter {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #1d69cc;
+  border: 1px solid #cc1da6;
   border-radius: 5px;
 }
 
